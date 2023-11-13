@@ -2,6 +2,8 @@ import { DefaultTheme } from 'styled-components';
 import localFont from 'next/font/local';
 import { DM_Sans } from 'next/font/google'; // eslint-disable-line camelcase
 
+// fonts
+
 const FKScreamerBackslanted = localFont({
   src: '../public/fonts/FKScreamer-Backslanted.otf',
   variable: '--font-fkscreamer-backslanted',
